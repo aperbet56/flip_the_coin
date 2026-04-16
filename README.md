@@ -1,5 +1,7 @@
 ## FLIP THE COIN | DEV CHALLENGES
 
+![Design prreview for the project](./img/preview.png)
+
 ## Le challenge
 
 Voici ma solution au challenge : Flip the coin de DevChallenges. Pour faire fonctionner le projet, il suffit de cliquer sur la pièce ou sur le bouton pour lancer la pièce.
