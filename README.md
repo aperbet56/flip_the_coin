@@ -6,7 +6,7 @@ Voici ma solution au challenge : Flip the coin de DevChallenges. Pour faire fonc
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/flip_the_coin/
 
 ## Projet développé avec
 
