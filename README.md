@@ -2,7 +2,7 @@
 
 ## Le challenge
 
-Voici ma solution au challenge : Flip the coin de DevChallenges.
+Voici ma solution au challenge : Flip the coin de DevChallenges. Pour faire fonctionner le projet, il suffit de cliquer sur la pièce ou sur le bouton pour lancer la pièce.
 
 ## Démonstration
 
